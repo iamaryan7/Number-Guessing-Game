@@ -47,7 +47,7 @@ Digital-Number-Guessing-Game/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Digital-Number-Guessing-Game.git
+git clone https://github.com/your-iamaryan7/Digital-Number-Guessing-Game.git
 ```
 
 ### 2. Navigate to Project Directory
@@ -139,7 +139,7 @@ This project is licensed under the MIT License.
 
 Diploma Final Year Student | Computer Engineering
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/iamaryan7
 
 ---
 
